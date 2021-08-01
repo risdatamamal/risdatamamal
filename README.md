@@ -1,6 +1,6 @@
 ### Welcome to my Repo 👋
 
-```html
+```CSS
 You can use my repo for your dummy project. 😄 XOXO
 
 ✨ristaalva✨
