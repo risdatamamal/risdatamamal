@@ -1,6 +1,6 @@
-### Hi there 👋
+### Welcome to my Repo 👋
 
-```
+```css
 You can use my repo for your dummy project. 😄 XOXO
 
 ```
