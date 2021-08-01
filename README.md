@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+```
+You can use my repo for your dummy project. 😄 XOXO
+
+```
+
 <!--
 **risdatamamal/risdatamamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
