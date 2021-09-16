@@ -8,7 +8,7 @@ You can use my repo for your dummy project. 😄 XOXO
 
 | Tamam's GitHub stats | Top Langs |
 | --- | --- |
-| [![Tamam's GitHub stats](https://github-readme-stats.vercel.app/api?username=risdatamamal&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)] | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=risdatamamal&langs_count=8&layout=compact&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/risdatamamal/github-readme-stats)
+| [![Tamam's GitHub stats](https://github-readme-stats.vercel.app/api?username=risdatamamal&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/risdatamamal) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=risdatamamal&langs_count=8&layout=compact&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/risdatamamal/github-readme-stats)
 
 
 ✨ristaalva✨
