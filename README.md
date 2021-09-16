@@ -1,5 +1,6 @@
 ### Welcome 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=menlo&color=ffffff&size=30&height=80&lines=Risda+Tamam+Aljava;Mobile+Developer;Junior+Full+Stack+Developer)](https://git.io/typing-svg)
 
 You can use my repo for your dummy project. 😄 XOXO
 
