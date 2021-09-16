@@ -1,7 +1,10 @@
-### Welcome to my Repo 👋
+### Welcome 👋
 
 ```CSS
 You can use my repo for your dummy project. 😄 XOXO
+
+- 🔭 I’m currently internship on [Divergent Generation](https://www.divergen.yaasmin.or.id/) as a Web and Apps Developer
+- 💬 How to reach me: [Instagram](https://www.instagram.com/_risdatamamal/), [LinkedIn](https://www.linkedin.com/in/risdatamamal/)
 
 ✨ristaalva✨
 
