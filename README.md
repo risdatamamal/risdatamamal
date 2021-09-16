@@ -6,9 +6,10 @@ You can use my repo for your dummy project. 😄 XOXO
 - 🔭 I’m currently internship on [Divergent Generation](https://www.divergen.yaasmin.or.id/) as a Web and Apps Developer
 - 💬 How to reach me: [Instagram](https://www.instagram.com/_risdatamamal/), [LinkedIn](https://www.linkedin.com/in/risdatamamal/)
 
-
-[![Tamam's GitHub stats](https://github-readme-stats.vercel.app/api?username=risdatamamal)](https://github.com/risdatamamal/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=risdatamamal&layout=compact)](https://github.com/risdatamamal/github-readme-stats)
+| --- | --- |
+| --- | --- |
+| [![Tamam's GitHub stats](https://github-readme-stats.vercel.app/api?username=risdatamamal)](https://github.com/risdatamamal/github-readme-stats) |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=risdatamamal&layout=compact)](https://github.com/risdatamamal/github-readme-stats) |
 
 
 ✨ristaalva✨
