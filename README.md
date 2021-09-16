@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=menlo&color=000000&size=30&height=80&lines=✨+Risda+Tamam+Aljava+✨;Mobile+Developer;Junior+Full+Stack+Developer;Freelancer+Upwork)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=menlo&color=000000&size=30&height=80&lines=✨+Risda+Tamam+Aljava+✨;Mobile+Developer;Junior+Full+Stack+Developer;Freelancer+Upwork)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=menlo&color=ffffff&size=30&height=80&lines=✨+Risda+Tamam+Aljava+✨;Mobile+Developer;Junior+Full+Stack+Developer;Freelancer+Upwork)](https://git.io/typing-svg)
 
 ### Welcome 👋
 
