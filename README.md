@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-```CSS
+
 You can use my repo for your dummy project. 😄 XOXO
 
 - 🔭 I’m currently internship on [Divergent Generation](https://www.divergen.yaasmin.or.id/) as a Web and Apps Developer
@@ -8,7 +8,6 @@ You can use my repo for your dummy project. 😄 XOXO
 
 ✨ristaalva✨
 
-```
 
 <!--
 **risdatamamal/risdatamamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
