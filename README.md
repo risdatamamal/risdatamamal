@@ -8,6 +8,7 @@ You can use my repo for your dummy project. 😄 XOXO
 
 
 [![Tamam's GitHub stats](https://github-readme-stats.vercel.app/api?username=risdatamamal)](https://github.com/risdatamamal/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=risdatamamal&layout=compact)](https://github.com/risdatamamal/github-readme-stats)
 
 
 ✨ristaalva✨
