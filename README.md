@@ -5,7 +5,8 @@
 You can use my repo for your dummy project. 😄 XOXO
 
 - 🔭 I’m currently internship on [Divergent Generation](https://www.divergen.yaasmin.or.id/) as a Web and Apps Developer
-- 💬 How to reach me: [Instagram](https://www.instagram.com/_risdatamamal/), [LinkedIn](https://www.linkedin.com/in/risdatamamal/)
+- 💬 Ask me about my hobby on Photography at [Shutterstock](https://www.shutterstock.com/g/risdatamamal)
+- 📫 How to reach me: [Instagram](https://www.instagram.com/_risdatamamal/), [LinkedIn](https://www.linkedin.com/in/risdatamamal/)
 
 | ⚡Tamam's stats | Top Langs |
 | --- | --- |
