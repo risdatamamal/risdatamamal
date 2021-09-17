@@ -2,8 +2,6 @@
 
 ### Welcome 👋
 
-[![Awesome Kotlin Badge](https://kotlin.link/awesome-kotlin.svg)](https://github.com/KotlinBy/awesome-kotlin)
-
 You can use my repo for your dummy project. 😄 XOXO
 
 - 🔭 I’m currently internship on [Divergent Generation](https://www.divergen.yaasmin.or.id/) as a Web and Apps Developer
