@@ -5,7 +5,7 @@
 You can use my repo for your dummy project. 😄 XOXO
 
 - 🔭 I’m currently internship on [English Learner ID](http://englishlearner.web.id/) as a Backend Developer
-- 💬 Ask me about my hobby on Photography at [Shutterstock](https://www.shutterstock.com/g/risdatamamal)
+- 💬 Ask me about my hobby on Photography at [Shutterstock](https://www.shutterstock.com/g/risdatamamal) or my collection on [OpenSea](https://opensea.io/ristaalva)
 - 📫 How to reach me: [Instagram](https://www.instagram.com/_risdatamamal/), [LinkedIn](https://www.linkedin.com/in/risdatamamal/)
 
 | ⚡Tamam's stats | Top Langs |
