@@ -4,7 +4,7 @@
 
 You can use my repo for your dummy project. 😄 XOXO
 
-- 🔭 I’m currently internship on [English Learner ID](http://jaitjait.com/) as a Full Stack Developer
+- 🔭 I’m currently internship on [JaitJait](http://jaitjait.com/) as a Full Stack Developer
 - 💬 Ask me about my hobby on Photography at [Shutterstock](https://www.shutterstock.com/g/risdatamamal)
 - 📫 How to reach me: [Instagram](https://www.instagram.com/_risdatamamal/), [LinkedIn](https://www.linkedin.com/in/risdatamamal/)
 
