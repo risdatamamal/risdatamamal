@@ -4,7 +4,7 @@
 
 You can use my repo for your dummy project. 😄 XOXO
 
-- 🔭 I’m currently internship on [JaitJait](http://jaitjait.com/) as a Full Stack Developer [Ended]
+- 🔭 I’m currently internship on [StarCamp Academy](https://dev-academy.starcamp.asia/) as a Web Developer Internship
 - 💬 Ask me about my hobby on Photography at [Shutterstock](https://www.shutterstock.com/g/risdatamamal)
 - 📫 How to reach me: [Instagram](https://www.instagram.com/_risdatamamal/), [LinkedIn](https://www.linkedin.com/in/risdatamamal/)
 
