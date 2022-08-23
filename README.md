@@ -4,7 +4,7 @@
 
 You can use my repo for your dummy project. 😄 XOXO
 
-- 🔭 I’m currently internship on [Starcamp Academy](https://www.starcamp.academy) as a Web Developer Internship
+- 🔭 I’m currently internship as Web Developer Internship at [Starcamp Academy](https://www.starcamp.academy) 
 - 💬 Ask me about my hobby on Photography at [Shutterstock](https://www.shutterstock.com/g/risdatamamal)
 - 📫 How to reach me: [Instagram](https://www.instagram.com/_risdatamamal/), [LinkedIn](https://www.linkedin.com/in/risdatamamal/)
 
