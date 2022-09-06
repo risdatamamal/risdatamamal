@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=menlo&color=53BAD6&size=30&height=80&lines=✨+Risda+Tamam+Aljava+✨;Interest+with;Mobile+Developer;Freelancer)](https://git.io/typing-svg)  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=menlo&color=ffffff&size=30&height=80&lines=✨+Risda+Tamam+Aljava+✨;Interest+with;Mobile+Developer;Freelancer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=menlo&color=53BAD6&size=30&height=80&lines=✨+Risda+Tamam+Aljava+✨;Interest+with;Mobile+Developer;Fullstack+Developer;Freelancer)](https://git.io/typing-svg)  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=menlo&color=ffffff&size=30&height=80&lines=✨+Risda+Tamam+Aljava+✨;Interest+with;Mobile+Developer;Fullstack+Developer;Freelancer)](https://git.io/typing-svg)
 
 ### Welcome 👋
 
 You can use my repo for your dummy project. 😄 XOXO
 
-- 🔭 I’m currently internship as Web Developer at [Starcamp Academy](https://www.starcamp.academy) 
+- 🔭 I’m currently internship as Web Fullstack Developer at [Starcamp Academy](https://www.starcamp.academy) and internship as Web3 Fullstack Engineer at [Litedex Protocol](https://litedex.io/)
 - 💬 Ask me about my hobby on Photography at [Shutterstock](https://www.shutterstock.com/g/risdatamamal)
 - 📫 How to reach me: [Instagram](https://www.instagram.com/_risdatamamal/), [LinkedIn](https://www.linkedin.com/in/risdatamamal/)
 
