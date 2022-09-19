@@ -65,8 +65,6 @@ You can use my repo for your dummy project. 😄 XOXO
 
 </td></tr></table>  
 
-<br/>  
-
 ## GitHub Stats
 
 | ⚡Tamam's stats | Top Langs |
