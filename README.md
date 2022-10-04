@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=menlo&color=53BAD6&size=30&height=80&lines=✨+Risda+Tamam+Aljava+✨;Interest+with;Mobile+Developer;Fullstack+Developer;Freelancer)](https://git.io/typing-svg)  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=menlo&color=ffffff&size=30&height=80&lines=✨+Risda+Tamam+Aljava+✨;Interest+with;Mobile+Developer;Fullstack+Developer;Freelancer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=menlo&color=53BAD6&size=30&height=80&lines=✨+Risda+Tamam+Aljava+✨;Interest+with;Mobile+Developer;Fullstack+Developer;Junior+Backend+Developer;Freelancer)](https://git.io/typing-svg)  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=menlo&color=ffffff&size=30&height=80&lines=✨+Risda+Tamam+Aljava+✨;Interest+with;Mobile+Developer;Fullstack+Developer;Junior+Backend+Developer;Freelancer)](https://git.io/typing-svg)
 
 ### Welcome 👋 
 
