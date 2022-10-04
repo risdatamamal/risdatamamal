@@ -5,9 +5,17 @@
 I specialize in building a robust back-end that does all the heavy lifting for apps or websites, but I build front-end too for designing interface. I like designing systems, solve problems and find easy and better solutions to solve them. I always try my best to make good systems with the best performance. I like to learn about the world behind the screen which involves system designs, databases, security, servers, optimization, and also promising technologies.
 
 - 😄 Pronouns: He/Him
-- 🔭 I’m currently internship as Web Fullstack Developer at [Starcamp Academy](https://www.starcamp.academy) and internship as Web3 Fullstack Engineer at [Litedex Protocol](https://litedex.io/)
+- 🔭 I’m currently fulltime as Junior Backend Developer at [Elemes.id](https://www.elemes.id) and internship as Web3 Fullstack Engineer at [Litedex Protocol](https://litedex.io/)
 - 💬 Ask me about my hobby on Photography at [Shutterstock](https://www.shutterstock.com/g/risdatamamal)
-- 📫 How to reach me: [Instagram](https://www.instagram.com/_risdatamamal/), [LinkedIn](https://www.linkedin.com/in/risdatamamal/) and `echo "cmlzZGExMjN0YW1hbUBnbWFpbC5jb20=" | base64 --decode`
+- 📫 How to reach me: `echo "cmlzZGExMjN0YW1hbUBnbWFpbC5jb20=" | base64 --decode`
+
+<h3 align="center">connect with me</h3>
+<p align="center">
+<a href="https://twitter.com/pemudasadboyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pemudasadboyy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/risdatamamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="risdatamamal" height="30" width="40" /></a>
+<a href="https://instagram.com/_risdatamamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_risdatamamal" height="30" width="40" /></a>
+</p>
+
 [![@risdatamamal's Holopin board](https://holopin.io/api/user/board?user=risdatamamal)](https://holopin.io/@risdatamamal)
 
 ## My Skill Set  
