@@ -5,7 +5,7 @@
 I specialize in building a robust back-end that does all the heavy lifting for apps or websites, but I build front-end too for designing interface. I like designing systems, solve problems and find easy and better solutions to solve them. I always try my best to make good systems with the best performance. I like to learn about the world behind the screen which involves system designs, databases, security, servers, optimization, and also promising technologies.
 
 - 😄 Pronouns: He/Him
-- 🔭 I’m currently fulltime as Junior Backend Developer at [Elemes.id](https://www.elemes.id) and fulltime as DevOps at [Prifat](https://prifat.co.id/)
+- 🔭 I’m currently fulltime as Junior Backend Developer at [Elemes ID](https://www.elemes.id) and fulltime as DevOps at [Prifat ID](https://prifat.co.id/)
 - 💬 Ask me about my hobby on Photography at [Shutterstock](https://www.shutterstock.com/g/risdatamamal)
 - 📫 How to reach me: `echo "cmlzZGExMjN0YW1hbUBnbWFpbC5jb20=" | base64 --decode`
 
