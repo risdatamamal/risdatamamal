@@ -1,11 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=menlo&color=53BAD6&size=30&height=80&lines=✨+Risda+Tamam+Aljava+✨;Interest+with;Mobile+Developer;Fullstack+Developer;Freelancer)](https://git.io/typing-svg)  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=menlo&color=ffffff&size=30&height=80&lines=✨+Risda+Tamam+Aljava+✨;Interest+with;Mobile+Developer;Fullstack+Developer;Freelancer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=menlo&color=53BAD6&size=30&height=80&lines=✨+Risda+Tamam+Aljava+✨;Freelancer)](https://git.io/typing-svg)  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=menlo&color=ffffff&size=30&height=80&lines=✨+Risda+Tamam+Aljava+✨;Freelancer)](https://git.io/typing-svg)
 
 ### Welcome 👋 
 
 I specialize in building a robust back-end that does all the heavy lifting for apps or websites, but I build front-end too for designing interface. I like designing systems, solve problems and find easy and better solutions to solve them. I always try my best to make good systems with the best performance. I like to learn about the world behind the screen which involves system designs, databases, security, servers, optimization, and also promising technologies.
 
 - 😄 Pronouns: He/Him
-- 🔭 I’m currently Freelance as Full Stack Developer at [Javaprojects ID](https://javaprojects.netlify.app/)  || ex-Fulltime as Junior Full Stack Developer at [Prifat](https://www.prifat.co.id/)
+- 🔭 I’m currently Freelance as Full Stack Developer at [Javaprojects ID](https://javaprojects.netlify.app/)
 - 💬 Ask me about my hobby on Photography at [Shutterstock](https://www.shutterstock.com/g/risdatamamal)
 - 📫 How to reach me: `echo "cmlzZGExMjN0YW1hbUBnbWFpbC5jb20=" | base64 --decode`
 
