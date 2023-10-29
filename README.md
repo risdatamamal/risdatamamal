@@ -17,7 +17,6 @@ I specialize in building a robust back-end that does all the heavy lifting for a
 </p>
 
 [![@risdatamamal's Holopin board](https://holopin.io/api/user/board?user=risdatamamal)](https://holopin.io/@risdatamamal)
-[![An image of @risdatamamal6's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/risdatamamal6)](https://holopin.io/@risdatamamal6)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
