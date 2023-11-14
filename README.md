@@ -16,7 +16,7 @@ I specialize in building a robust back-end that does all the heavy lifting for a
 <a href="https://instagram.com/_risdatamamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_risdatamamal" height="30" width="40" /></a>
 </p>
 
-[![@risdatamamal's Holopin board](https://holopin.io/api/user/board?user=risdatamamal)](https://holopin.io/@risdatamamal)
+[![An image of @risdatamamal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/risdatamamal)](https://holopin.io/@risdatamamal)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
