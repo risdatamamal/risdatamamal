@@ -5,11 +5,10 @@
 I specialize in building a robust back-end that does all the heavy lifting for apps or websites, but I build front-end too for designing interface. I like designing systems, solve problems and find easy and better solutions to solve them. I always try my best to make good systems with the best performance. I like to learn about the world behind the screen which involves system designs, databases, security, servers, optimization, and also promising technologies.
 
 - 😄 Pronouns: He/Him
-- 🔭 I’m currently Freelance as Full Stack Developer at [Javaprojects ID](https://javaprojects.netlify.app/) and Fulltime as Application Programmer at [Mimotek Indonesia](https://largo.id/about-us/)
+- 🔭 I’m currently Freelance as Full Stack Developer at [Javaprojects ID](https://javaprojects.netlify.app/) and Fulltime as Programmer at [Largo ID](https://largo.id/about-us/)
 - 💬 Ask me about my hobby on Photography at [Shutterstock](https://www.shutterstock.com/g/risdatamamal)
-- 📫 How to reach me: IG @_risdatamamal
 
-<h3 align="center">connect with me</h3>
+<h3 align="center">Reach me and connect with me</h3>
 <p align="center">
 <a href="https://twitter.com/pemudasadboyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pemudasadboyy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/risdatamamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="risdatamamal" height="30" width="40" /></a>
@@ -18,7 +17,7 @@ I specialize in building a robust back-end that does all the heavy lifting for a
 
 [![An image of @risdatamamal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/risdatamamal)](https://holopin.io/@risdatamamal)
 
-## My Skill Set  
+### My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
